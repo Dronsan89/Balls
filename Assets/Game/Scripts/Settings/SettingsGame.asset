@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63c28d5b17cac7b44850db4fefc3dbde, type: 3}
+  m_Name: SettingsGame
+  m_EditorClassIdentifier: 
+  RangeRewardValuesMinMax: {x: 1, y: 3}
+  RangeDamageValuesMinMax: {x: 1, y: 3}
+  RangeSpeedValuesMinMax: {x: 1, y: 3}
+  AddedSpeedStep: 1
+  UpLevelTime: 15
+  CooldownCreationBalls: 1
+  BallSize: 3.5
+  ScreenBorder:
+    LeftBorder: -3
+    RightBorder: 3
+    UpBorder: 5
+    DownBorder: 3
+  AddedSpeed: 1
+  PlayerHealth: 20
